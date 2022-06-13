@@ -3,4 +3,12 @@
 def write_function():
     f = open('lab3.txt','w')
     f.write('Mohamed Adan')
-    f.close()
+    f.close
+
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
+
